@@ -20,7 +20,7 @@ title: MICHAEL ONG
 ###############################################
 
 navbar-links:
-  About: "about"
+#  About: "about"
   Contact: "contact"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
