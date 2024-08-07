@@ -19,7 +19,7 @@ title: MICHAEL ONG
 # --- List of links in the navigation bar --- #
 ###############################################
 
-#navbar-links:
+navbar-links:
   About Us: "aboutus"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
