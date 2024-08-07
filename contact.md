@@ -9,10 +9,10 @@ subtitle: Would you like to learn more? Please fill out the contact form.
 <form action="https://formspree.io/f/mwpebego" method="POST">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name" required>
-
+  <br/>
   <label for="email">Email:</label>
   <input type="email" id="email" name="email" required>
-
+  <br/>
   <label for="message">Message:</label>
   <textarea id="message" name="message" required></textarea>
 
