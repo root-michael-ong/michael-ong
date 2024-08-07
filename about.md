@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: About
 subtitle: Building a Better Future | We are growing a dynamic network of non-profits dedicated to tackling challenges and seizing opportunities from local to global levels.
 ---
 
