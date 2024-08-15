@@ -6,7 +6,7 @@ subtitle: Would you like to learn more? Please fill out the contact form.
 
 # Contact Us
 
-<div style="text-align:center;">
+<div style="text-align:left;">
   <form action="https://formspree.io/f/mwpebego" method="POST" style="display:inline-block; text-align:left;">
     <label for="name">Name:</label><br/>
     <input type="text" id="name" name="name" required style="width:100%;"><br/><br/>
