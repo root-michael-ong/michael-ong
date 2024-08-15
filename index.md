@@ -17,4 +17,5 @@ To create and sustain a network of dynamic and impactful organizations dedicated
 * Comprehensive Support and Empowerment: Focuses on the parent organization’s role.
 * Drive Positive Change, Promote Innovation, and Build Resilient Communities: Encompasses a range of possible missions.
 
+## Kickstart Our Mission: Be the First to Donate and Help Us Launch!
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/empower-change-support-our-nonprofit-vision/widget/large?sharesheet=donationsEmpty&attribution_id=sl:987a8a9e-98dd-4038-921e-86b3876d49a3"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
