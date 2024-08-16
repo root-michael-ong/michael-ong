@@ -4,6 +4,11 @@
 :root {
   --body-font: 'Lora', 'Times New Roman', serif;
 }
+.form-label {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.125rem;
+  color: #494e52;
+}
 
 .form-input {
   display: inline-block;
