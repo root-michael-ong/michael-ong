@@ -11,8 +11,8 @@
   border: 1px solid #f2f3f3;
   border-radius: 4px;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125);
-  font-family: 'Helvetica Neue', Arial, sans-serif; /* Match your site's font */
-  font-size: 16px; /* Match your site's font size */
+  font-family: var(--body-font); /* Match your site's font */
+  font-size: 1.125rem; /* Match your site's font size */
 }
 
 .form-submit {
