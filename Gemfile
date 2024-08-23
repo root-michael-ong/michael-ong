@@ -4,3 +4,9 @@ source "https://rubygems.org"
 
 gemspec
 
+gem 'tzinfo'
+gem 'tzinfo-data'
+gem 'wdm'
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
