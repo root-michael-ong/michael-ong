@@ -295,6 +295,7 @@ exclude:
   - screenshot.png
   - docs/
 
+# List of active plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -302,3 +303,6 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+# Site information
+url:  https://michaelr.xyz
+baseurl: ''
